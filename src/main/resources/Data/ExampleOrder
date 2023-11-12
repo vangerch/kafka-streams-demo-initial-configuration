@@ -1,0 +1,6 @@
+{
+  "id": "id-order-123",
+  "summary":"This is an example order",
+  "data": "This is the description of the order",
+  "state": "SENT"
+}
